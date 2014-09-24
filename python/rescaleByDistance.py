@@ -42,4 +42,4 @@ if __name__ == "__main__":
     target = sel[2].name()
     cmds.expression(o = '%s'%(target) , s ="%s.scaleX = %s"%(target,exp))
     cmds.expression(o = '%s'%(target) , s ="%s.scaleY = %s"%(target,exp))
-    cmds.expression(o = '%s'%(sel[2].name()) , s ="%s.scaleZ = %s"%(sel[2].name(),exp))
+    cmds.expression(o = '%s'%(target) , s ="%s.scaleZ = %s"%(target,exp))
