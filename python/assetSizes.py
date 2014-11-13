@@ -19,6 +19,7 @@ def processData(data):
     assets = {}
     for asset in data:
         name = os.path.split(asset[5])
+        fileType = name[:-3]
         size = expandNotation(asset[2],asset[3])
         path = asset[5]
         assets[path] = {'name':name, 'size':size}
