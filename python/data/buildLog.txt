@@ -50,7 +50,7 @@
 
 02:20:16      [exec]  2.7 mb   3.6% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/Materials/HAL_SpritePage.png
 
-02:20:16      [exec]  2.7 mb   3.6% Assets/SpriteCollections/Bundles/atw/Atw Accumulator Data/atlas0.png
+02:20:16      [exec]  2.7 mb   kAssets/SpriteCollections/Bundles/atw/Atw Accumulator Data/atlas0.png
 
 02:20:16      [exec]  2.0 mb   2.7% Assets/SpriteCollections/Dialog Data/atlas0.png
 

@@ -11,29 +11,56 @@ def splitFile(fLines,startLine = 31):
     gLines = []
     for idx, line in enumerate(fLines[startLine:]):
         if "exec" in line:
-            splitLine = line.split()        
+            splitLine = line.split(None,5)        
             gLines.append(splitLine)
     return gLines
 
 def processData(data):
     assets = {}
     for asset in data:
-        name = os.path.split(asset[5])
-        fileType = name[:-3]
+        path, name = os.path.split(asset[5])
+        fileType = None
+        if "." in name:
+            fileType = name.split(".")[1].strip()
         size = expandNotation(asset[2],asset[3])
+        percent = asset[4]
         path = asset[5]
-        assets[path] = {'name':name, 'size':size}
+        if fileType != None:
+            assets[path] = {'name':name,
+                        'size':size,
+                        'extension':fileType,
+                        'percent':percent,
+                        'path':path}
     return assets
-        
+
+def sortByKey(assets, key):
+    byExt = {}
+    for _key in assets:
+        asset = assets[_key]
+        if asset[key] != None:
+            if asset[key] not in byExt:
+                byExt[asset[key]] = [asset]
+            if asset[key] in byExt:
+                byExt[asset[key]].append(asset)
+    return byExt
+
+def sizeByKey(byType):
+    for _type in byType:
+        sizeSum = 0
+        for elem in byType[_type]:
+            sizeSum += elem['size']
+        print(_type, "{:,}".format(sizeSum))
+
 def expandNotation(size, notation):
-    notations = {'mb':1e6, 'kb':1e3 }
+    notations = {'mb':10248576, 'kb':1024 }
     if notation in notations:
         return int(float(size)*notations[notation])
     return size
 
 if __name__ == "__main__":
-    f = open("H:/Projects/Tools/python/data/buildLog.txt",'r')
+    f = open("data/buildLog.txt",'r')
     fLines = f.readlines()
     f.close()
     data = splitFile(fLines)
-    print(processData(data))
+    processed = processData(data)
+    sizeByKey(sortByKey(processed,"extension"))
