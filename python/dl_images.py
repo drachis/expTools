@@ -35,7 +35,7 @@ def compositeImage(h, v, files):
     
  
 if __name__ == "__main__":
-    downloadImages()
+    #downloadImages()
 
     #for h in new_Sr_{0}_{1}
            
