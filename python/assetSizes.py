@@ -51,8 +51,16 @@ def sizeByKey(byType):
             sizeSum += elem['size']
         print(_type, "{:,}".format(sizeSum))
 
+def filterOutValue(assets, value):
+    filtered = {}
+    for _key in assets:
+        key = _key
+        if value not in key:
+            filtered[key] = assets[key]
+    return filtered
+    
 def expandNotation(size, notation):
-    notations = {'mb':10248576, 'kb':1024 }
+    notations = {'mb':1048576, 'kb':1024 }
     if notation in notations:
         return int(float(size)*notations[notation])
     return size
@@ -62,5 +70,7 @@ if __name__ == "__main__":
     fLines = f.readlines()
     f.close()
     data = splitFile(fLines)
-    processed = processData(data)
-    sizeByKey(sortByKey(processed,"extension"))
+    #processed = processData(data)
+    #sizeByKey(sortByKey(processed,"extension"))
+    noExternal = filterOutValue(processed, "ExternalTextures")
+    sizeByKey(sortByKey(noExternal,"extension"))
