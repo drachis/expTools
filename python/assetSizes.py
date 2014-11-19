@@ -16,6 +16,8 @@ def splitFile(fLines,startLine = 31):
     return gLines
 
 def processData(data):
+    # splits incomming data into dictionary assets
+    # mapping their attributes  to keys.
     assets = {}
     for asset in data:
         path, name = os.path.split(asset[5])
@@ -34,6 +36,7 @@ def processData(data):
     return assets
 
 def sortByKey(assets, key):
+    #returns a dictionary of lists in the format {key value:[list of assets containing key value]}
     byExt = {}
     for _key in assets:
         asset = assets[_key]
@@ -45,13 +48,16 @@ def sortByKey(assets, key):
     return byExt
 
 def sizeByKey(byType):
+    # returns none, prints values by key size
     for _type in byType:
         sizeSum = 0
         for elem in byType[_type]:
             sizeSum += elem['size']
         print(_type, "{:,}".format(sizeSum))
+    print("\n")
 
 def filterOutValue(assets, value):
+    # removes all assets who have value in the string of their key
     filtered = {}
     for _key in assets:
         key = _key
@@ -60,17 +66,21 @@ def filterOutValue(assets, value):
     return filtered
     
 def expandNotation(size, notation):
-    notations = {'mb':1048576, 'kb':1024 }
+    #convert from 99 MB or 99 KB to number of bytes 
+    notations = {'mb':2**20, 'kb':2**10 }
     if notation in notations:
         return int(float(size)*notations[notation])
     return size
+def compactNotation(size, notation):
+    notations = {'mb':2**20, 'kb':2**10 }
+    
 
 if __name__ == "__main__":
     f = open("data/buildLog.txt",'r')
     fLines = f.readlines()
     f.close()
-    data = splitFile(fLines)
-    #processed = processData(data)
-    #sizeByKey(sortByKey(processed,"extension"))
+    data = splitFile(fLines,1)
+    processed = processData(data)
+    sizeByKey(sortByKey(processed,"extension"))
     noExternal = filterOutValue(processed, "ExternalTextures")
     sizeByKey(sortByKey(noExternal,"extension"))

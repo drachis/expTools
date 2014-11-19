@@ -1,997 +1,510 @@
-02:20:15      [exec] Packing sprites:
-
-02:20:15      [exec] - Skipping packing - Sprite Packer is off.
-
-02:20:16      [exec]
-
-02:20:16      [exec] Textures      71.3 mb    96.4%
-
-02:20:16      [exec] Meshes        155.1 kb   0.2%
-
-02:20:16      [exec] Animations    693.2 kb   0.9%
-
-02:20:16      [exec] Sounds        221.9 kb   0.3%
-
-02:20:16      [exec] Shaders       231.8 kb   0.3%
-
-02:20:16      [exec] Other Assets  1.3 mb     1.7%
-
-02:20:16      [exec] Levels        0.0 kb     0.0%
-
-02:20:16      [exec] Scripts       2.8 kb     0S.0%
-
-02:20:16      [exec] Included DLLs 0.0 kb     0.0%
-
-02:20:16      [exec] File headers  144.0 kb   0.2%
-
-02:20:16      [exec] Complete size 74.0 mb    100.0%
-
-02:20:16      [exec]
-
-02:20:16      [exec] Used Assets, sorted by uncompressed size:
-
-02:20:16      [exec]  8.0 mb   10.8% Assets/ExternalTextures/Fonts/CoopBlackShaded.png
-
-02:20:16      [exec]  6.8 mb   9.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/HUD Lines.png
-
-02:20:16      [exec]  4.0 mb   5.4% Assets/SpriteCollections/System Data/atlas0.png
-
-02:20:16      [exec]  4.0 mb   5.4% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTransition Data/atlas0.png
-
-02:20:16      [exec]  4.0 mb   5.4% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTextBoxes Data/atlas0.png
-
-02:20:16      [exec]  4.0 mb   5.4% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetMap Data/atlas0.png
-
-02:20:16      [exec]  4.0 mb   5.4% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGems Data/atlas0.png
-
-02:20:16      [exec]  4.0 mb   5.4% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusBackground Data/atlas0.png
-
-02:20:16      [exec]  4.0 mb   5.4% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBG Data/atlas0.png
-
-02:20:16      [exec]  2.7 mb   3.6% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/Materials/HAL_SpritePage.png
-
-02:20:16      [exec]  2.7 mb   kAssets/SpriteCollections/Bundles/atw/Atw Accumulator Data/atlas0.png
-
-02:20:16      [exec]  2.0 mb   2.7% Assets/SpriteCollections/Dialog Data/atlas0.png
-
-02:20:16      [exec]  2.0 mb   2.7% Assets/SpriteCollections/Bundles/main/SlotsGeneric Data/atlas0.png
-
-02:20:16      [exec]  2.0 mb   2.7% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetSlots Data/atlas0.png
-
-02:20:16      [exec]  1.8 mb   2.4% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/BG.jpg
-
-02:20:16      [exec]  1.7 mb   2.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/05_BG.png
-
-02:20:16      [exec]  1.1 mb   1.5% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Red.png
-
-02:20:16      [exec]  1.0 mb   1.4% Assets/ExternalTextures/Fonts/Comfortaa-Regular.png
-
-02:20:16      [exec]  1.0 mb   1.4% Assets/ExternalTextures/Fonts/Comfortaa-Bold.png
-
-02:20:16      [exec]  1.0 mb   1.4% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGameOver Data/atlas0.png
-
-02:20:16      [exec]  1.0 mb   1.4% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusUI Data/atlas0.png
-
-02:20:16      [exec]  682.7 kb 0.9% Assets/ExternalTextures/Games/CrystalPlanet/Font/Renegade.png
-
-02:20:16      [exec]  682.7 kb 0.9% Assets/ExternalTextures/Games/CrystalPlanet/Font/font.png
-
-02:20:16      [exec]  567.3 kb 0.7% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Yellow.png
-
-02:20:16      [exec]  512.1 kb 0.7% Assets/SpriteCollections/Bundles/atw/AtwHogTutorial Data/atlas0.png
-
-02:20:16      [exec]  507.1 kb 0.7% Assets/ExternalTextures/Games/CrystalPlanet/DigBonus/BG/Pickable.png
-
-02:20:16      [exec]  444.4 kb 0.6% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Green.png
-
-02:20:16      [exec]  370.4 kb 0.5% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/hal_src.fbx
-
-02:20:16      [exec]  297.5 kb 0.4% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Purple.png
-
-02:20:16      [exec]  256.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickYellowPlanet.png
-
-02:20:16      [exec]  256.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickRedPlanet.png
-
-02:20:16      [exec]  256.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickPurplePlanet.png
-
-02:20:16      [exec]  256.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickGreenPlanet.png
-
-02:20:16      [exec]  256.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickBluePlanet.png
-
-02:20:16      [exec]  256.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/Fog.png
-
-02:20:16      [exec]  210.8 kb 0.3% Assets/Bundles/crystalplanet/Prefabs/DigBonus/DirtLayer.prefab
-
-02:20:16      [exec]  192.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickYellowPlanetGlow.png
-
-02:20:16      [exec]  192.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickRedPlanetGlow.png
-
-02:20:16      [exec]  192.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickPurplePlanetGlow.png
-
-02:20:16      [exec]  192.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickGreenPlanetGlow.png
-
-02:20:16      [exec]  192.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickBluePlanetGlow.png
-
-02:20:16      [exec]  192.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickaplanetGlow.png
-
-02:20:16      [exec]  175.5 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Blue.png
-
-02:20:16      [exec]  170.8 kb 0.2% Assets/ExternalTextures/Games/SlotsGeneric/General/Sparkle02.png
-
-02:20:16      [exec]  151.1 kb 0.2% Assets/Resources/Shaders/MobileDissolveAlphaCutoutDiffuse.shader
-
-02:20:16      [exec]  135.6 kb 0.2% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/hal_bark.fbx
-
-02:20:16      [exec]  112.1 kb 0.1% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/CrystalPlanetSlotsBG.prefab
-
-02:20:16      [exec]  107.1 kb 0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/05_Jasper.png
-
-02:20:16      [exec]  106.4 kb 0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/06_Flint.png
-
-02:20:16      [exec]  106.4 kb 0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/03_HAL.png
-
-02:20:16      [exec]  106.4 kb 0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/01_Wild.png
-
-02:20:16      [exec]  105.1 kb 0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/04_Ruby.png
-
-02:20:16      [exec]  103.8 kb 0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/07_Amy.png
-
-02:20:16      [exec]  102.6 kb 0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/14_DigBonus.png
-
-02:20:16      [exec]  90.5 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/08_OozeTube.png
-
-02:20:16      [exec]  83.8 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Satellite.png
-
-02:20:16      [exec]  78.7 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/Anims/MainScreenOverlayLightSpeed.anim
-
-02:20:16      [exec]  77.4 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/01_WildText.png
-
-02:20:16      [exec]  76.0 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/09_RayGun.png
-
-02:20:16      [exec]  71.7 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/shoot.anim
-
-02:20:16      [exec]  70.0 kb  0.1% Built-in AssetBundle:
-
-02:20:16      [exec]  64.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/SquiggleGlow.jpg
-
-02:20:16      [exec]  59.7 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/Paytable/PaytableDialogCP.prefab
-
-02:20:16      [exec]  57.3 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/10_Rocket.png
-
-02:20:16      [exec]  56.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/11_Helm.png
-
-02:20:16      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/GlowHighlight01.png
-
-02:20:16      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Lens Flare.png
-
-02:20:16      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/HalfRing02.jpg
-
-02:20:16      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Static03.png
-
-02:20:16      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Static02.png
-
-02:20:16      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Glow03.png
-
-02:20:16      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Circle01.jpg
-
-02:20:16      [exec]  47.5 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/Slots/Reels/SlotSymbol.prefab
-
-02:20:16      [exec]  42.7 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Glow02.png
-
-02:20:16      [exec]  42.7 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Flare01.png
-
-02:20:16      [exec]  42.7 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Smoke07.png
-
-02:20:16      [exec]  42.7 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Ring01.png
-
-02:20:16      [exec]  40.8 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/Anims/MapDotsIntro.anim
-
-02:20:16      [exec]  40.2 kb  0.1% Built-in Shader: Transparent/Diffuse
-
-02:20:16      [exec]  32.1 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/ScreenOverlay01.jpg
-
-02:20:16      [exec]  30.3 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/BG.prefab
-
-02:20:16      [exec]  30.0 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_introTheme.mp3
-
-02:20:16      [exec]  29.3 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/crystalplanet_hal.prefab
-
-02:20:16      [exec]  29.1 kb  0.0% Assets/Resources/Fonts/Comfortaa-Regulardata.prefab
-
-02:20:16      [exec]  29.1 kb  0.0% Assets/Resources/Fonts/Comfortaa-Bolddata.prefab
-
-02:20:16      [exec]  24.9 kb  0.0% Assets/SpriteCollections/System Data/System.prefab
-
-02:20:16      [exec]  23.8 kb  0.0% Assets/Resources/Fonts/CoopBlackShaded-NoneBrowndata.prefab
-
-02:20:16      [exec]  23.8 kb  0.0% Assets/Resources/Fonts/CoopBlackShaded-BlackWhitedata.prefab
-
-02:20:16      [exec]  23.8 kb  0.0% Assets/Resources/Fonts/CoopBlackShaded-NoneNonedata.prefab
-
-02:20:16      [exec]  23.6 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/Renegadedata.prefab
-
-02:20:16      [exec]  23.5 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTextBoxes Data/CrystalPlanetTextBoxes.prefab
-
-02:20:16      [exec]  23.2 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_transitionToBonus_01.mp3
-
-02:20:16      [exec]  22.8 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetFontdata.prefab
-
-02:20:16      [exec]  22.3 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MapDots.anim
-
-02:20:16      [exec]  21.7 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/CrystalPlanetDigBonusUI.prefab
-
-02:20:16      [exec]  21.4 kb  0.0% Built-in Texture2D: Default-Particle
-
-02:20:16      [exec]  20.7 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Readout Bar.png
-
-02:20:16      [exec]  20.1 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/DooberCP.prefab
-
-02:20:16      [exec]  20.0 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/CPAccumulator.prefab
-
-02:20:16      [exec]  19.6 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusBackground Data/CrystalPlanetDigBonusBackground.prefab
-
-02:20:16      [exec]  19.0 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBG Data/CrystalPlanetBG_update5_14.prefab
-
-02:20:16      [exec]  17.9 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_transitionToFreespin.mp3
-
-02:20:16      [exec]  17.5 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Siren.anim
-
-02:20:16      [exec]  17.5 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetMap Data/CrystalPlanetMap.prefab
-
-02:20:16      [exec]  17.2 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/MeterEffect.prefab
-
-02:20:16      [exec]  16.9 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/LeftScreenAnimationActive.anim
-
-02:20:16      [exec]  16.4 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/FreeSpinEffectCRystalplanet.prefab
-
-02:20:16      [exec]  16.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/ComputerScreenHighlight.png
-
-02:20:16      [exec]  16.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/ExplosionSeqBW.png
-
-02:20:16      [exec]  16.1 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Star01.png
-
-02:20:16      [exec]  13.9 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_transitionToBonus_02.mp3
-
-02:20:16      [exec]  13.8 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Transitions/BonusTransition.prefab
-
-02:20:16      [exec]  13.0 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_Reelspin.mp3
-
-02:20:16      [exec]  12.7 kb  0.0% Assets/SpriteCollections/Bundles/atw/Atw Accumulator Data/Atw Accumulator.prefab
-
-02:20:16      [exec]  12.2 kb  0.0% Assets/SpriteCollections/Bundles/main/SlotsGeneric Data/SlotsGeneric.prefab
-
-02:20:16      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetYellowGlow.png
-
-02:20:16      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetRedGlow.png
-
-02:20:16      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetPurpleGlow.png
-
-02:20:16      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetGreenGlow.png
-
-02:20:16      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetBlueGlow.png
-
-02:20:16      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Star02.png
-
-02:20:16      [exec]  11.0 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/DoubleCPChatBox.prefab
-
-02:20:16      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/ShaderTextures/TileableNoise001.png
-
-02:20:16      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Oval_Glow_Faded.png
-
-02:20:16      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Meter Gradient02.png
-
-02:20:16      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Meter Gradient01.png
-
-02:20:16      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/SquareGlow01.png
-
-02:20:16      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Oval Glow01.png
-
-02:20:16      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/HalfRing01.jpg
-
-02:20:16      [exec]  10.7 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Static01.png
-
-02:20:16      [exec]  10.7 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Spots01.png
-
-02:20:16      [exec]  10.3 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/FlashingLights.anim
-
-02:20:16      [exec]  10.1 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/LeftScreenAnimationIdle.anim
-
-02:20:16      [exec]  10.1 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_JASPER.mp3
-
-02:20:16      [exec]  9.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_Reelspin_SpinLoop.mp3
-
-02:20:16      [exec]  9.2 kb   0.0% Assets/SpriteCollections/Dialog Data/Dialog.prefab
-
-02:20:16      [exec]  8.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/RoundelBurstCP.prefab
-
-02:20:16      [exec]  8.4 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTransition Data/CrystalPlanetTransition.prefab
-
-02:20:16      [exec]  8.3 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetSlots Data/CrystalPlanetSlots.prefab
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/SquareOutline01.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit09.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit08.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit07.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit06.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit05.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit04.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit03.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit02.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit01.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit00.png
-
-02:20:16      [exec]  8.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/WhitePixel Data/atlas0.png
-
-02:20:16      [exec]  7.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_bonusDoober.mp3
-
-02:20:16      [exec]  7.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardLarge.mp3
-
-02:20:16      [exec]  7.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_SuperBonusWin.mp3
-
-02:20:16      [exec]  6.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/CP_TelevisionFlash.prefab
-
-02:20:16      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal6.prefab
-
-02:20:16      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal5.prefab
-
-02:20:16      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal4.prefab
-
-02:20:16      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal3.prefab
-
-02:20:16      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal2.prefab
-
-02:20:16      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal1.prefab
-
-02:20:16      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Coal.prefab
-
-02:20:16      [exec]  6.7 kb   0.0% Assets/Resources/Shaders/xft_distort_additive.shader
-
-02:20:16      [exec]  6.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardMed02.mp3
-
-02:20:16      [exec]  5.9 kb   0.0% Built-in Shader: Particles/Additive
-
-02:20:16      [exec]  5.9 kb   0.0% Built-in Shader: Particles/Alpha Blended
-
-02:20:16      [exec]  5.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm04.mp3
-
-02:20:16      [exec]  5.7 kb   0.0% Assets/SpriteCollections/Bundles/atw/AtwHogTutorial Data/AtwHogTutorial.prefab
-
-02:20:16      [exec]  5.7 kb   0.0% Built-in Shader: Particles/Alpha Blended Premultiply
-
-02:20:16      [exec]  5.6 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/FX/CrystalBurst.prefab
-
-02:20:16      [exec]  5.6 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/FX/CoalBurst.prefab
-
-02:20:16      [exec]  5.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardMed01.mp3
-
-02:20:16      [exec]  5.6 kb   0.0% Assets/Resources/Shaders/xft_mask.shader
-
-02:20:16      [exec]  5.4 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Arc02.png
-
-02:20:16      [exec]  5.3 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_bonusSymbol3.mp3
-
-02:20:16      [exec]  5.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/TutorialDialog.prefab
-
-02:20:16      [exec]  5.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/hal_controller.controller
-
-02:20:16      [exec]  5.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MapIntro.anim
-
-02:20:16      [exec]  5.0 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm03.mp3
-
-02:20:16      [exec]  5.0 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm01.mp3
-
-02:20:16      [exec]  4.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MainScreenOverlayIdle.anim
-
-02:20:16      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm05.mp3
-
-02:20:16      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects05.controller
-
-02:20:16      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects04.controller
-
-02:20:16      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects03.controller
-
-02:20:16      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects02.controller
-
-02:20:16      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects01.controller
-
-02:20:16      [exec]  4.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm06.mp3
-
-02:20:16      [exec]  4.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm02.mp3
-
-02:20:16      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandomIntro03.anim
-
-02:20:16      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandomIntro02.anim
-
-02:20:16      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandomIntro01.anim
-
-02:20:16      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_rocketMeter_advance.mp3
-
-02:20:16      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SatelliteIdle.anim
-
-02:20:16      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom03.anim
-
-02:20:16      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom02.anim
-
-02:20:16      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom01.anim
-
-02:20:16      [exec]  4.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MainScreenOverlayIntro.anim
-
-02:20:16      [exec]  4.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ReadOutIntro.anim
-
-02:20:16      [exec]  4.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/CountSixty CP.anim
-
-02:20:16      [exec]  4.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/CircleSegment.png
-
-02:20:16      [exec]  3.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/LeftScreen.controller
-
-02:20:16      [exec]  3.6 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PickableTileDugInto.anim
-
-02:20:16      [exec]  3.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_Reelspin_SpinStart.mp3
-
-02:20:16      [exec]  3.4 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGems Data/CrystalPlanetGems.prefab
-
-02:20:16      [exec]  3.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortionMapTransition.anim
-
-02:20:16      [exec]  3.3 kb   0.0% Assets/Resources/Shaders/FontMultiBorderColorBlend.shader
-
-02:20:16      [exec]  3.3 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_bonusSymbol2.mp3
-
-02:20:16      [exec]  3.3 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_bonusSymbol1.mp3
-
-02:20:16      [exec]  3.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetIntro.anim
-
-02:20:16      [exec]  3.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortion.anim
-
-02:20:16      [exec]  3.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro02.anim
-
-02:20:16      [exec]  3.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SatelliteIntro.anim
-
-02:20:16      [exec]  3.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/LineGlow02.png
-
-02:20:16      [exec]  3.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro04.anim
-
-02:20:16      [exec]  3.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro03.anim
-
-02:20:16      [exec]  3.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro01.anim
-
-02:20:16      [exec]  3.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortiontest.anim
-
-02:20:16      [exec]  2.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro05.anim
-
-02:20:16      [exec]  2.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetSelected.anim
-
-02:20:16      [exec]  2.9 kb   0.0% Assets/Bundles/mgm/Prefabs/Objects/taptap_ok.obj
-
-02:20:16      [exec]  2.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MainScreenOverlay.controller
-
-02:20:16      [exec]  2.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro.anim
-
-02:20:16      [exec]  2.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/WildBounce.anim
-
-02:20:16      [exec]  2.8 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/TargetDecal01.png
-
-02:20:16      [exec]  2.8 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/ComputerGlow.png
-
-02:20:16      [exec]  2.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIdle.anim
-
-02:20:16      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom03.controller
-
-02:20:16      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom02.controller
-
-02:20:16      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom01.controller
-
-02:20:16      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PickableTileBlasted.anim
-
-02:20:16      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DooberShip.anim
-
-02:20:16      [exec]  2.5 kb   0.0% Assets/Bundles/mgm/Prefabs/Effects/Anims/LevelTransition.anim
-
-02:20:16      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ReadOutIdle.anim
-
-02:20:16      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Satellite.controller
-
-02:20:16      [exec]  2.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ReadOutRoot.controller
-
-02:20:16      [exec]  2.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DotPath.controller
-
-02:20:16      [exec]  2.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/BoxSparkle.anim
-
-02:20:16      [exec]  2.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ShipShutOff.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortionMapTransition.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/TK2DROOT/tk2d/Shaders/resources/BlendVertexColor.shader
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PickableTileScanned.anim
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Miliseconds CP.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Seconds CP.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Minutes CP.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Hours CP.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DirtTileScanned.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DirtTileDugInto.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DirtTileBlasted.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/mgm/Prefabs/Effects/Anims/MPFTransitionMGM.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortion.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/FlashingLights.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/WildEffectCP.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SelectMeIdle.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/BoxSparkleCP.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/CrystalShine.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Bounce.controller
-
-02:20:16      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Ship.controller
-
-02:20:16      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Siren.controller
-
-02:20:16      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Map.controller
-
-02:20:16      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro05.anim
-
-02:20:16      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro04.anim
-
-02:20:16      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro03.anim
-
-02:20:16      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro02.anim
-
-02:20:16      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro01.anim
-
-02:20:16      [exec]  2.0 kb   0.0% Built-in Shader: Transparent/VertexLit
-
-02:20:16      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIdle.anim
-
-02:20:16      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/WildEffectTiming.anim
-
-02:20:16      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/GameOverScreen.prefab
-
-02:20:16      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/WildShine.anim
-
-02:20:16      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SelectMeIdle.anim
-
-02:20:16      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex08.mp3
-
-02:20:16      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex06.mp3
-
-02:20:16      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex05.mp3
-
-02:20:16      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex04.mp3
-
-02:20:16      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex02.mp3
-
-02:20:16      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ShipShutOff.anim
-
-02:20:16      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ShipIdle.anim
-
-02:20:16      [exec]  1.8 kb   0.0% Built-in Shader: Unlit/Transparent
-
-02:20:16      [exec]  1.8 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex07.mp3
-
-02:20:16      [exec]  1.8 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex03.mp3
-
-02:20:16      [exec]  1.8 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusUI Data/CrystalPlanetDigBonusUI 1.prefab
-
-02:20:16      [exec]  1.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_MessageVanish.mp3
-
-02:20:16      [exec]  1.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_MessageAppear.mp3
-
-02:20:16      [exec]  1.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex01.mp3
-
-02:20:16      [exec]  1.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/DigitColon.png
-
-02:20:16      [exec]  0.7 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/DotREC.png
-
-02:20:16      [exec]  0.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_uiClick.mp3
-
-02:20:16      [exec]  0.6 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGameOver Data/CrystalPlanetGameOver.prefab
-
-02:20:16      [exec]  0.6 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/WhitePixel Data/WhitePixel.prefab
-
-02:20:16      [exec]  0.6 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/TileBurstDissolve2.png
-
-02:20:16      [exec]  0.6 kb   0.0% Built-in Shader: Mobile/Particles/Alpha Blended
-
-02:20:16      [exec]  0.6 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/TileDigDissolve2.png
-
-02:20:16      [exec]  0.6 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/LineSegment.png
-
-02:20:16      [exec]  0.6 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/FreeSpinGem.png
-
-02:20:16      [exec]  0.6 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/FX/WildEffectCP.prefab
-
-02:20:16      [exec]  0.6 kb   0.0% Built-in Shader: Mobile/Particles/Additive
-
-02:20:16      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/WhiteSquare Mask.mat
-
-02:20:16      [exec]  0.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/DialogAlphaMask.prefab
-
-02:20:16      [exec]  0.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/KeepDigging.prefab
-
-02:20:16      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionHal.mat
-
-02:20:16      [exec]  0.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/FlagAccumulatorIcons.prefab
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/CrystalPlanetReelsBG.prefab
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionCrystal.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionWildText.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionRocket.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionRaygun.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionJasper.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionFlint.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionDigBonus.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionAmethyst.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionWild.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionRuby.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionHelm.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/Resources/Fonts/CoopBlackShaded-BlackWhite.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetYellow Distortion.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetPurple Distortion.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetGreen Distortion.mat
-
-02:20:16      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetBlue Distortion.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Satellite Distortion.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetRed Distortion.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/MapBG Distortion.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetJasperTalking.prefab
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetFlintTalking.prefab
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetAmethystTalking.prefab
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetRubyTalking.prefab
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetHalTalking.prefab
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/WildCrystalShine.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DirtTileDugInto.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DirtTileBlasted.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Subviews/CrystalplanetSlots.prefab
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Screen ON.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/Resources/Fonts/CoopBlackShaded-NoneBrownmaterial.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/Resources/Fonts/CoopBlackShaded-NoneNonematerial.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/MapBG Alpha.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Subviews/CrystalplanetDigBonus.prefab
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/TK2DROOT/tk2dUI/Shaders/DepthMaskSolid.shader
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ComputerScreenHighlight Alpha.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Oval Glow01 Animatable.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/BlackSquare Animatable.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Built-in Material: Default-Particle
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/glow03 Animatable.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolAlphaWildText.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SquareOutline01 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetYellow Alpha.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetPurple Alpha.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetGreen Alpha.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/TargetDecal01 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Satellite Alpha.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetYellow Add.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetRed Alpha.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetRed Add.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetPurple Add.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetGreen Add.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetBlue Alpha.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetBlue Add.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Lens Flare CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/HalfRing02 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DigitColon CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/LineGlow02.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ReadOutBar.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/MapDotGlow01.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/LineSegment.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/GlowingUI.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DirtParticle.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit09 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit08 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit07 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit06 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit05 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit04 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit03 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit02 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit01 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit00 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Circle01 CP.mat
-
-02:20:16      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/05_BG Quad.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Arc02.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ComputerScreenHighlight.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ScreenOverlay01 CP.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/GlowHighlight01.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetYellowGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetRedGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetPurpleGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetGreenGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetBlueGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickGreenPlanet.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ExplosionSeqBW.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/CircleSegment.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/SquareGlow01.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Static02.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Glow03.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Flare01.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/WhiteSquare Alpha.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FreeSpinGem TopRight.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Built-in Material: Default-Diffuse
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Meter Gradient02.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Meter Gradient01.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickBluePlanet.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Materials/HAL_SpritePage.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/Materials/HAL_SpritePage.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Lens Flare.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusBackground Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Star01.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Spots01.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Ring01.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Glow02.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/CrystalPlanetSlotsSubView.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Effects/EffectScripts/EffectsControllerScriptBase.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickaplanetGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Fog.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetFontmaterial.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Resources/Fonts/Comfortaa-Regularmaterial.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/SquiggleGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteCollectionData.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/DigBonus/CPBonusGameTransition.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Effects/EffectsScripts/tk2dSpriteColorControl.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Views/CardSliderPageIndicator.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/Visual/FitBoxColliderToScreen.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Resources/Fonts/Comfortaa-Boldmaterial.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DotREC.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/WhiteSquare.png
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickYellowPlanetGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickRedPlanetGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickPurplePlanetGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickGreenPlanetGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickBluePlanetGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FreeSpinGem TopLeft.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteAnimator.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteAnimation.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/Mgm/MGMGameOverDialog.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/DigBonus/CPDigBonusSubView.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/CPDooberFlyScript.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/GameControllers/Slots/SlotSymbolController.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Widgets/PaytableJackpotEntry.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Widgets/PaytableJackpotCard.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/tk2d/tk2dTexelAutoScale.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/Visual/GradientController.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Dialog Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/main/SlotsGeneric Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/WhitePixel Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/Renegadematerial.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTransition Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTextBoxes Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetSlots Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetMap Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGems Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGameOver Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusUI Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBG Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/atw/AtwHogTutorial Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/atw/Atw Accumulator Data/atlas0 material.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Smoke07 Alpha.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Oval_Glow_Faded.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/BlackSquare.png
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickYellowPlanet.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickRedPlanet.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickPurplePlanet.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/WhiteSquare.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/HalfRing01.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ComputerGlow.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dTiledSprite.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSlicedSprite.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Widgets/PaytableDialog.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/CPAccumulator.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/Atw/ContinuePopUp.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Effects/EffectsScripts/ActivationSwitch.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Localization/OneTimeTranslate.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/GUI/Buttons/ScalingButton.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Effects/UnpausableEffect.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/SpriteCollections/System Data/atlas0.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Star02.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Sparkle2.mat
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSprite.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Gui/tk2dButton.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Fonts/tk2dTextMesh.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Fonts/tk2dFontData.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/DigBonus/DirtLayer.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/Scripts/Effects/EffectsScripts/UVScroller.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Views/Games/Framework/BonusGames/WheelBonus/WheelBonusUtils/WheelWedge.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/Visual/FitToScreen.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/Visual/ButtonSizer.cs
-
-02:20:16      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/GUI/Slider/Slider.cs
+02:21:23      [exec] Used Assets, sorted by uncompressed size:
+02:21:23      [exec]  8.0 mb   16.9% Assets/ExternalTextures/Fonts/CoopBlackShaded.png
+02:21:23      [exec]  4.0 mb   8.4% Assets/SpriteCollections/System Data/atlas0.png
+02:21:23      [exec]  4.0 mb   8.4% Assets/SpriteCollections/Dialog Data/atlas0.png
+02:21:23      [exec]  2.7 mb   5.6% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/Materials/HAL_SpritePage.png
+02:21:23      [exec]  2.0 mb   4.2% Assets/SpriteCollections/Bundles/main/SlotsGeneric Data/atlas0.png
+02:21:23      [exec]  2.0 mb   4.2% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetSlots Data/atlas0.png
+02:21:23      [exec]  2.0 mb   4.2% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBG Data/atlas0.png
+02:21:23      [exec]  1.1 mb   2.3% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Red.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/ExternalTextures/Fonts/Comfortaa-Regular.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/ExternalTextures/Fonts/Comfortaa-Bold.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTransition Data/atlas0.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTextBoxes Data/atlas0.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusBackground Data/atlas0.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/ExternalTextures/Games/CrystalPlanet/DigBonus/Ruby_1.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/ExternalTextures/Games/CrystalPlanet/DigBonus/Jasper_1.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/ExternalTextures/Games/CrystalPlanet/DigBonus/Hal_1.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/ExternalTextures/Games/CrystalPlanet/DigBonus/Fint_1.png
+02:21:23      [exec]  1.0 mb   2.1% Assets/ExternalTextures/Games/CrystalPlanet/DigBonus/Ame_1.png
+02:21:23      [exec]  682.7 kb 1.4% Assets/ExternalTextures/Games/CrystalPlanet/Font/Renegade.png
+02:21:23      [exec]  682.7 kb 1.4% Assets/ExternalTextures/Games/CrystalPlanet/Font/font.png
+02:21:23      [exec]  567.3 kb 1.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Yellow.png
+02:21:23      [exec]  512.1 kb 1.1% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGems Data/atlas0.png
+02:21:23      [exec]  512.1 kb 1.1% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusUI Data/atlas0.png
+02:21:23      [exec]  512.1 kb 1.1% Assets/SpriteCollections/Bundles/atw/AtwHogTutorial Data/atlas0.png
+02:21:23      [exec]  444.4 kb 0.9% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Green.png
+02:21:23      [exec]  416.8 kb 0.9% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/hal_src.fbx
+02:21:23      [exec]  363.1 kb 0.7% Assets/ExternalTextures/Games/CrystalPlanet/Textures/LockOnHud.png
+02:21:23      [exec]  297.5 kb 0.6% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Purple.png
+02:21:23      [exec]  256.1 kb 0.5% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetMap Data/atlas0.png
+02:21:23      [exec]  256.1 kb 0.5% Assets/ExternalTextures/Games/CrystalPlanet/Textures/Fog.png
+02:21:23      [exec]  249.7 kb 0.5% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/MapHudDots.png
+02:21:23      [exec]  210.8 kb 0.4% Assets/Bundles/crystalplanet/Prefabs/DigBonus/DirtLayer.prefab
+02:21:23      [exec]  175.5 kb 0.4% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Planet-Blue.png
+02:21:23      [exec]  170.8 kb 0.4% Assets/ExternalTextures/Games/SlotsGeneric/General/Sparkle02.png
+02:21:23      [exec]  160.3 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/MapHudTop.png
+02:21:23      [exec]  151.1 kb 0.3% Assets/Resources/Shaders/MobileDissolveAlphaCutoutDiffuse.shader
+02:21:23      [exec]  128.1 kb 0.3% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBars Data/atlas0.png
+02:21:23      [exec]  128.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/05_BG.jpg
+02:21:23      [exec]  128.1 kb 0.3% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/BG.jpg
+02:21:23      [exec]  108.1 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Textures/LockOnTarget.png
+02:21:23      [exec]  107.1 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/05_Jasper.png
+02:21:23      [exec]  106.4 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/06_Flint.png
+02:21:23      [exec]  106.4 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/03_HAL.png
+02:21:23      [exec]  106.4 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/01_Wild.png
+02:21:23      [exec]  105.5 kb 0.2% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/CrystalPlanetSlotsBG.prefab
+02:21:23      [exec]  105.1 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/04_Ruby.png
+02:21:23      [exec]  103.8 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/07_Amy.png
+02:21:23      [exec]  102.6 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/14_DigBonus.png
+02:21:23      [exec]  100.1 kb 0.2% Assets/ExternalTextures/Games/CrystalPlanet/Textures/LockOnBars.png
+02:21:23      [exec]  90.5 kb  0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/08_OozeTube.png
+02:21:23      [exec]  83.8 kb  0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Satellite.png
+02:21:23      [exec]  77.4 kb  0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/01_WildText.png
+02:21:23      [exec]  76.0 kb  0.2% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/09_RayGun.png
+02:21:23      [exec]  72.7 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/Anims/MainScreenOverlayLightSpeed.anim
+02:21:23      [exec]  69.3 kb  0.1% Built-in AssetBundle: 
+02:21:23      [exec]  64.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickYellowPlanet.png
+02:21:23      [exec]  64.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickRedPlanet.png
+02:21:23      [exec]  64.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickPurplePlanet.png
+02:21:23      [exec]  64.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickGreenPlanet.png
+02:21:23      [exec]  64.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickBluePlanet.png
+02:21:23      [exec]  64.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/SquiggleGlow.jpg
+02:21:23      [exec]  60.8 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/LockOnArrows.png
+02:21:23      [exec]  60.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/DigBonus/BG/Pickable.png
+02:21:23      [exec]  57.3 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/10_Rocket.png
+02:21:23      [exec]  56.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/Symbols/11_Helm.png
+02:21:23      [exec]  54.9 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/Paytable/PaytableDialogCP.prefab
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickYellowPlanetGlow.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickRedPlanetGlow.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickPurplePlanetGlow.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickGreenPlanetGlow.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickBluePlanetGlow.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/GlowHighlight01.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PickaplanetGlow.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Lens Flare.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Static03.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Static02.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Glow03.png
+02:21:23      [exec]  48.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Circle01.jpg
+02:21:23      [exec]  48.1 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/Slots/Reels/SlotSymbol.prefab
+02:21:23      [exec]  42.7 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Glow02.png
+02:21:23      [exec]  42.7 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Flare01.png
+02:21:23      [exec]  42.7 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Smoke07.png
+02:21:23      [exec]  42.7 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/Ring01.png
+02:21:23      [exec]  40.8 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/Anims/MapDotsIntro.anim
+02:21:23      [exec]  40.2 kb  0.1% Built-in Shader: Transparent/Diffuse
+02:21:23      [exec]  32.1 kb  0.1% Assets/ExternalTextures/Games/SlotsGeneric/General/ScreenOverlay01.jpg
+02:21:23      [exec]  30.3 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/DigBonus/BG.prefab
+02:21:23      [exec]  29.4 kb  0.1% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/crystalplanet_hal.prefab
+02:21:23      [exec]  29.1 kb  0.1% Assets/Resources/Fonts/Comfortaa-Regulardata.prefab
+02:21:23      [exec]  29.1 kb  0.1% Assets/Resources/Fonts/Comfortaa-Bolddata.prefab
+02:21:23      [exec]  27.3 kb  0.1% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/MapHudCorner.png
+02:21:23      [exec]  24.9 kb  0.1% Assets/SpriteCollections/System Data/System.prefab
+02:21:23      [exec]  23.8 kb  0.0% Assets/Resources/Fonts/CoopBlackShaded-NoneBrowndata.prefab
+02:21:23      [exec]  23.8 kb  0.0% Assets/Resources/Fonts/CoopBlackShaded-BlackWhitedata.prefab
+02:21:23      [exec]  23.8 kb  0.0% Assets/Resources/Fonts/CoopBlackShaded-NoneNonedata.prefab
+02:21:23      [exec]  23.6 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/Renegadedata.prefab
+02:21:23      [exec]  23.5 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTextBoxes Data/CrystalPlanetTextBoxes.prefab
+02:21:23      [exec]  23.2 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_transitionToBonus_01.mp3
+02:21:23      [exec]  22.8 kb  0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetFontdata.prefab
+02:21:23      [exec]  22.3 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MapDots.anim
+02:21:23      [exec]  21.7 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/CrystalPlanetDigBonusUI.prefab
+02:21:23      [exec]  21.4 kb  0.0% Built-in Texture2D: Default-Particle
+02:21:23      [exec]  20.7 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Slots/MPF/Readout Bar.png
+02:21:23      [exec]  20.1 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/DooberCP.prefab
+02:21:23      [exec]  20.0 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/CPAccumulator.prefab
+02:21:23      [exec]  17.9 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_transitionToFreespin.mp3
+02:21:23      [exec]  17.9 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_introTheme_shrt.mp3
+02:21:23      [exec]  17.6 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Siren.anim
+02:21:23      [exec]  17.2 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/MeterEffect.prefab
+02:21:23      [exec]  17.0 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/DoubleCPChatBox.prefab
+02:21:23      [exec]  16.4 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/FreeSpinEffectCRystalplanet.prefab
+02:21:23      [exec]  16.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/ComputerScreenHighlight.png
+02:21:23      [exec]  16.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/ExplosionSeqBW.png
+02:21:23      [exec]  16.1 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Star01.png
+02:21:23      [exec]  15.6 kb  0.0% Assets/SpriteCollections/Dialog Data/Dialog.prefab
+02:21:23      [exec]  14.7 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_AMY.mp3
+02:21:23      [exec]  14.0 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_LightSpeedReset.mp3
+02:21:23      [exec]  13.9 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_transitionToBonus_02.mp3
+02:21:23      [exec]  13.8 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Transitions/BonusTransition.prefab
+02:21:23      [exec]  13.8 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_backgroundLoop.mp3
+02:21:23      [exec]  13.0 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_Reelspin.mp3
+02:21:23      [exec]  12.4 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/LeftScreenAnimationActive.anim
+02:21:23      [exec]  12.2 kb  0.0% Assets/SpriteCollections/Bundles/main/SlotsGeneric Data/SlotsGeneric.prefab
+02:21:23      [exec]  12.2 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_RUBY.mp3
+02:21:23      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetYellowGlow.png
+02:21:23      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetRedGlow.png
+02:21:23      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetPurpleGlow.png
+02:21:23      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetGreenGlow.png
+02:21:23      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/PlanetBlueGlow.png
+02:21:23      [exec]  12.1 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Star02.png
+02:21:23      [exec]  12.0 kb  0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/FlashingLights.anim
+02:21:23      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/ShaderTextures/TileableNoise001.png
+02:21:23      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Oval_Glow_Faded.png
+02:21:23      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Meter Gradient01.png
+02:21:23      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/SquareGlow01.png
+02:21:23      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Oval Glow01.png
+02:21:23      [exec]  10.8 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/HalfRing01.jpg
+02:21:23      [exec]  10.7 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Static01.png
+02:21:23      [exec]  10.7 kb  0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Spots01.png
+02:21:23      [exec]  10.1 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_JASPER.mp3
+02:21:23      [exec]  10.1 kb  0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_FLINT.mp3
+02:21:23      [exec]  9.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_Reelspin_SpinLoop.mp3
+02:21:23      [exec]  8.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/Accumulators/RoundelBurstCP.prefab
+02:21:23      [exec]  8.3 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetSlots Data/CrystalPlanetSlots.prefab
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit09.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit08.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit07.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit06.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit05.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit04.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit03.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit02.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit01.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Digit00.png
+02:21:23      [exec]  8.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/WhitePixel Data/atlas0.png
+02:21:23      [exec]  7.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_bonusDoober.mp3
+02:21:23      [exec]  7.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardLarge.mp3
+02:21:23      [exec]  7.6 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusBackground Data/CrystalPlanetDigBonusBackground.prefab
+02:21:23      [exec]  7.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_SuperBonusWin.mp3
+02:21:23      [exec]  6.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/CP_TelevisionFlash.prefab
+02:21:23      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal6.prefab
+02:21:23      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal5.prefab
+02:21:23      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal4.prefab
+02:21:23      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal3.prefab
+02:21:23      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal2.prefab
+02:21:23      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Crystal1.prefab
+02:21:23      [exec]  6.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Coal.prefab
+02:21:23      [exec]  6.7 kb   0.0% Assets/Resources/Shaders/xft_distort_additive.shader
+02:21:23      [exec]  6.7 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ChatBoxIntro02.anim
+02:21:23      [exec]  6.7 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ChatBoxIntro01.anim
+02:21:23      [exec]  6.7 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTransition Data/CrystalPlanetTransition.prefab
+02:21:23      [exec]  6.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardMed02.mp3
+02:21:23      [exec]  6.3 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetMap Data/CrystalPlanetMap.prefab
+02:21:23      [exec]  5.9 kb   0.0% Built-in Shader: Particles/Additive
+02:21:23      [exec]  5.9 kb   0.0% Built-in Shader: Particles/Alpha Blended
+02:21:23      [exec]  5.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MapIntro.anim
+02:21:23      [exec]  5.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm04.mp3
+02:21:23      [exec]  5.7 kb   0.0% Assets/SpriteCollections/Bundles/atw/AtwHogTutorial Data/AtwHogTutorial.prefab
+02:21:23      [exec]  5.7 kb   0.0% Built-in Shader: Particles/Alpha Blended Premultiply
+02:21:23      [exec]  5.6 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/FX/CrystalBurst.prefab
+02:21:23      [exec]  5.6 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/FX/CoalBurst.prefab
+02:21:23      [exec]  5.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardMed01.mp3
+02:21:23      [exec]  5.6 kb   0.0% Assets/Resources/Shaders/xft_mask.shader
+02:21:23      [exec]  5.4 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Arc02.png
+02:21:23      [exec]  5.3 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_bonusSymbol3.mp3
+02:21:23      [exec]  5.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/TutorialDialog.prefab
+02:21:23      [exec]  5.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/hal_controller.controller
+02:21:23      [exec]  5.0 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm03.mp3
+02:21:23      [exec]  5.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ChatBoxIdle02.anim
+02:21:23      [exec]  5.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ChatBoxIdle01.anim
+02:21:23      [exec]  5.0 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm01.mp3
+02:21:23      [exec]  4.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MainScreenOverlayIdle.anim
+02:21:23      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/LeftScreenAnimationIdle.anim
+02:21:23      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm05.mp3
+02:21:23      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects05.controller
+02:21:23      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects04.controller
+02:21:23      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects03.controller
+02:21:23      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects02.controller
+02:21:23      [exec]  4.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetEffects01.controller
+02:21:23      [exec]  4.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm06.mp3
+02:21:23      [exec]  4.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_awardSm02.mp3
+02:21:23      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandomIntro03.anim
+02:21:23      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandomIntro02.anim
+02:21:23      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandomIntro01.anim
+02:21:23      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_rocketMeter_advance.mp3
+02:21:23      [exec]  4.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MainScreenOverlayIntro.anim
+02:21:23      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SatelliteIdle.anim
+02:21:23      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom03.anim
+02:21:23      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom02.anim
+02:21:23      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom01.anim
+02:21:23      [exec]  4.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/CountSixty CP.anim
+02:21:23      [exec]  4.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ReadOutIntro.anim
+02:21:23      [exec]  4.3 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_doggun.mp3
+02:21:23      [exec]  3.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/LeftScreen.controller
+02:21:23      [exec]  3.7 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PickableTileDugInto.anim
+02:21:23      [exec]  3.6 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_Reelspin_SpinStart.mp3
+02:21:23      [exec]  3.4 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_dogdig.mp3
+02:21:23      [exec]  3.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortionMapTransition.anim
+02:21:23      [exec]  3.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetIntro.anim
+02:21:23      [exec]  3.3 kb   0.0% Assets/Resources/Shaders/FontMultiBorderColorBlend.shader
+02:21:23      [exec]  3.3 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_bonusSymbol2.mp3
+02:21:23      [exec]  3.3 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_bonusSymbol1.mp3
+02:21:23      [exec]  3.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortion.anim
+02:21:23      [exec]  3.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SatelliteIntro.anim
+02:21:23      [exec]  3.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/CircleSegment01.png
+02:21:23      [exec]  3.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/LineGlow02.png
+02:21:23      [exec]  3.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro05.anim
+02:21:23      [exec]  3.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro04.anim
+02:21:23      [exec]  3.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro03.anim
+02:21:23      [exec]  3.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro02.anim
+02:21:23      [exec]  3.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro01.anim
+02:21:23      [exec]  3.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortiontest.anim
+02:21:23      [exec]  3.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIdle.anim
+02:21:23      [exec]  3.0 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBG Data/CrystalPlanetBG_update5_14.prefab
+02:21:23      [exec]  2.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetSelected.anim
+02:21:23      [exec]  2.9 kb   0.0% Assets/Bundles/mgm/Prefabs/Objects/taptap_ok.obj
+02:21:23      [exec]  2.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/MainScreenOverlay.controller
+02:21:23      [exec]  2.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetAvailableIntro.anim
+02:21:23      [exec]  2.8 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGems Data/CrystalPlanetGems.prefab
+02:21:23      [exec]  2.8 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/WildBounce.anim
+02:21:23      [exec]  2.8 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/ComputerGlow.png
+02:21:23      [exec]  2.6 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PickableTileBlasted.anim
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom03.controller
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom02.controller
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetNumbersRandom01.controller
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DooberShip.anim
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/mgm/Prefabs/Effects/Anims/LevelTransition.anim
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ReadOutIdle.anim
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Satellite.controller
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/CharacterHal.controller
+02:21:23      [exec]  2.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Character.controller
+02:21:23      [exec]  2.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ReadOutRoot.controller
+02:21:23      [exec]  2.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DotPath.controller
+02:21:23      [exec]  2.4 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/BoxSparkle.anim
+02:21:23      [exec]  2.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ShipShutOff.controller
+02:21:23      [exec]  2.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/GameOverScreen.prefab
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortionMapTransition.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/TK2DROOT/tk2d/Shaders/resources/BlendVertexColor.shader
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PickableTileScanned.anim
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Miliseconds CP.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Seconds CP.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Minutes CP.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ChatBoxMaskShutOff.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Hours CP.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DirtTileScanned.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DirtTileDugInto.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/DirtTileBlasted.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/mgm/Prefabs/Effects/Anims/MPFTransitionMGM.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SymbolDistortion.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/FlashingLights.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/WildEffectCP.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SelectMeIdle.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/BoxSparkleCP.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/CrystalShine.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Bounce.controller
+02:21:23      [exec]  2.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Ship.controller
+02:21:23      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Siren.controller
+02:21:23      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/Map.controller
+02:21:23      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro05.anim
+02:21:23      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro04.anim
+02:21:23      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro03.anim
+02:21:23      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro02.anim
+02:21:23      [exec]  2.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIntro01.anim
+02:21:23      [exec]  2.0 kb   0.0% Built-in Shader: Transparent/VertexLit
+02:21:23      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/PlanetDeactivatedIdle.anim
+02:21:23      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/WildEffectTiming.anim
+02:21:23      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/WildShine.anim
+02:21:23      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/SelectMeIdle.anim
+02:21:23      [exec]  2.0 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ChatBoxMaskShutOff.anim
+02:21:23      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex08.mp3
+02:21:23      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex06.mp3
+02:21:23      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex05.mp3
+02:21:23      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex04.mp3
+02:21:23      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex02.mp3
+02:21:23      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ShipShutOff.anim
+02:21:23      [exec]  1.9 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Anims/ShipIdle.anim
+02:21:23      [exec]  1.8 kb   0.0% Built-in Shader: Unlit/Transparent
+02:21:23      [exec]  1.8 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex07.mp3
+02:21:23      [exec]  1.8 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex03.mp3
+02:21:23      [exec]  1.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_MessageVanish.mp3
+02:21:23      [exec]  1.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_MessageAppear.mp3
+02:21:23      [exec]  1.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_SquareSelect.mp3
+02:21:23      [exec]  1.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_ReelIndex01.mp3
+02:21:23      [exec]  1.5 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusUI Data/CrystalPlanetDigBonusUI.prefab
+02:21:23      [exec]  1.2 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_digbonus_facetalk_HAL.mp3
+02:21:23      [exec]  1.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/DigitColon.png
+02:21:23      [exec]  1.0 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBars Data/CrystalPlanetBars.prefab
+02:21:23      [exec]  0.8 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/LineSegment01.png
+02:21:23      [exec]  0.7 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/DotREC.png
+02:21:23      [exec]  0.7 kb   0.0% Assets/Bundles/crystalplanet/Audio/crystal_planet_uiClick.mp3
+02:21:23      [exec]  0.6 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/WhitePixel Data/WhitePixel.prefab
+02:21:23      [exec]  0.6 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/TileBurstDissolve2.png
+02:21:23      [exec]  0.6 kb   0.0% Built-in Shader: Mobile/Particles/Alpha Blended
+02:21:23      [exec]  0.6 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/TileDigDissolve2.png
+02:21:23      [exec]  0.6 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Textures/FreeSpinGem.png
+02:21:23      [exec]  0.6 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/FX/WildEffectCP.prefab
+02:21:23      [exec]  0.6 kb   0.0% Built-in Shader: Mobile/Particles/Additive
+02:21:23      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/WhiteSquare Mask.mat
+02:21:23      [exec]  0.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/DialogAlphaMask.prefab
+02:21:23      [exec]  0.5 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/KeepDigging.prefab
+02:21:23      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FaceWarp ChatBox Amethyst.mat
+02:21:23      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FaceWarp ChatBox Ruby.mat
+02:21:23      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FaceWarp ChatBox Jasper.mat
+02:21:23      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FaceWarp ChatBox Flint.mat
+02:21:23      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionHal.mat
+02:21:23      [exec]  0.5 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FaceWarp ChatBox Hal.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Slots/MPF/CrystalPlanetReelsBG.prefab
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionCrystal.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionWildText.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionRocket.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionRaygun.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionJasper.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionFlint.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionDigBonus.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionAmethyst.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionWild.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionRuby.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolDistortionHelm.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/Resources/Fonts/CoopBlackShaded-BlackWhite.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetYellow Distortion.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetPurple Distortion.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetGreen Distortion.mat
+02:21:23      [exec]  0.3 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetBlue Distortion.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Satellite Distortion.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetRed Distortion.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/MapBG Distortion.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetJasperTalking.prefab
+02:21:23      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetFlintTalking.prefab
+02:21:23      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetAmethystTalking.prefab
+02:21:23      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetRubyTalking.prefab
+02:21:23      [exec]  0.2 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetHalTalking.prefab
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Screen ON Chatbox.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/WildCrystalShine.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DirtTileDugInto.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DirtTileBlasted.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Subviews/CrystalplanetSlots.prefab
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Screen ON.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/Resources/Fonts/CoopBlackShaded-NoneBrownmaterial.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/Resources/Fonts/CoopBlackShaded-NoneNonematerial.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/MapBG Alpha.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/Subviews/CrystalplanetDigBonus.prefab
+02:21:23      [exec]  0.2 kb   0.0% Assets/TK2DROOT/tk2dUI/Shaders/DepthMaskSolid.shader
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ComputerScreenHighlight Alpha.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/WhiteSquare Animatable.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Oval Glow01 Animatable.mat
+02:21:23      [exec]  0.2 kb   0.0% Built-in Material: Default-Particle
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/glow03 Animatable.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/SymbolAlphaWildText.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetYellow Alpha.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetPurple Alpha.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetGreen Alpha.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Satellite Alpha.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetYellow Add.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetRed Alpha.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetRed Add.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetPurple Add.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetGreen Add.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetBlue Alpha.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetBlue Add.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Lens Flare CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/GlowingUI Top.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/GlowingUI Dots.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/GlowingUI Corner.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DigitColon CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/LineGlow02.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ReadOutBar.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/MapDotGlow01.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DirtParticle.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit09 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit08 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit07 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit06 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit05 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit04 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit03 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit02 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit01 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Digit00 CP.mat
+02:21:23      [exec]  0.2 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Circle01 CP.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Arc02.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ComputerScreenHighlight.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ScreenOverlayChatBox.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ScreenOverlay01 CP.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/GlowHighlight01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetYellowGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetRedGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetPurpleGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetGreenGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PlanetBlueGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickGreenPlanet.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/LineSegment01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ExplosionSeqBW.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/CircleSegment01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/SquareGlow01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/LockOnTarget.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/LockOnHud.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/LockOnBars.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/LockOnArrows.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Static02.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Glow03.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Flare01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/05_BG.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/WhiteSquare Alpha.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FreeSpinGem TopRight.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Meter Gradient01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickBluePlanet.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/Materials/HAL_SpritePage.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/Bundles/crystalplanet/Prefabs/DigBonus/HAL/Materials/HAL_SpritePage.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Lens Flare.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusBackground Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Star01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Spots01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Ring01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Glow02.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/CrystalPlanetSlotsSubView.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Effects/EffectScripts/EffectsControllerScriptBase.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickaplanetGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/Fog.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetFontmaterial.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/Resources/Fonts/Comfortaa-Regularmaterial.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/SquiggleGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteCollectionData.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/DigBonus/CPBonusGameTransition.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Effects/EffectsScripts/tk2dSpriteColorControl.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Views/CardSliderPageIndicator.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/Visual/FitBoxColliderToScreen.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Resources/Fonts/Comfortaa-Boldmaterial.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/DotREC.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/WhiteSquare.png
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickYellowPlanetGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickRedPlanetGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickPurplePlanetGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickGreenPlanetGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickBluePlanetGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/FreeSpinGem TopLeft.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteAnimator.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteAnimation.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/Mgm/MGMGameOverDialog.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/DigBonus/CPDigBonusSubView.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/CPDooberFlyScript.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/GameControllers/Slots/SlotSymbolController.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Widgets/PaytableJackpotEntry.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Widgets/PaytableJackpotCard.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/tk2d/tk2dTexelAutoScale.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/Visual/GradientController.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Dialog Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/main/SlotsGeneric Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/WhitePixel Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/Renegadematerial.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTransition Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetTextBoxes Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetSlots Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetMap Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetGems Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetDigBonusUI Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBars Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/crystalplanet/CrystalPlanetBG Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/Bundles/atw/AtwHogTutorial Data/atlas0 material.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Smoke07 Alpha.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Oval_Glow_Faded.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickYellowPlanet.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickRedPlanet.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/PickPurplePlanet.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/WhiteSquare.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/HalfRing01.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/CrystalPlanet/Materials/ComputerGlow.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dTiledSprite.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSlicedSprite.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Widgets/PaytableDialog.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/CPAccumulator.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/Atw/ContinuePopUp.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Effects/EffectsScripts/ActivationSwitch.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Localization/OneTimeTranslate.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/GUI/Buttons/ScalingButton.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Effects/UnpausableEffect.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Effects/LayerOverride.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/SpriteCollections/System Data/atlas0.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Star02.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/ExternalTextures/Games/SlotsGeneric/General/Materials/Sparkle2.mat
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSprite.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Gui/tk2dButton.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Fonts/tk2dTextMesh.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/TK2DROOT/tk2d/Code/Fonts/tk2dFontData.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Views/Games/CrystalPlanet/DigBonus/DirtLayer.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/Scripts/Effects/EffectsScripts/UVScroller.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Views/Games/Framework/BonusGames/WheelBonus/WheelBonusUtils/WheelWedge.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/Visual/FitToScreen.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/Util/Visual/ButtonSizer.cs
+02:21:23      [exec]  0.1 kb   0.0% Assets/MCF/Scripts/GUI/Slider/Slider.cs
