@@ -21,13 +21,6 @@ def downloadImages(_h = 47, _v = 40):
                 shutil.copyfileobj(response, out_file)
                 files[filename] = out_file
         print( h)
-    for filename in files:
-        try:
-            in_file = Image.save(files[filename])
-        except:
-            print("cannot save file", filename)
-        in_file.close()
-        files[filename].close()
     return files
 
 def compositeImage(h, v, size, files):    
@@ -50,7 +43,7 @@ def determineCompSize(files):
 if __name__ == "__main__":
     _h = 47
     _v = 40
-    downloadImages(_h,_v)
+    #downloadImages(_h,_v)
     determineCompSize({'filename':"./data/new_Sr_1_1.png"})
     filePaths = [{(h,v):"./data/new_Sr_{0}_{1}.png".format(h,v)} for h in range(_h) for v in range(_v)]
     compositeImage(_h, _v, size=(256,256), files=filePaths)
