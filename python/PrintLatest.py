@@ -1,5 +1,7 @@
 """ 
-	rename the latest file to auto0.g for printing on bukito bot
+	marlin firmware auto0.g copy file
+	rename the latest file in the current directory to auto0.g 
+	for printing 3d printing, saves a bit of time.
 """
 import os
 import glob
